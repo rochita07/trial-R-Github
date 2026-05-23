@@ -84,6 +84,7 @@ generate_data = function(n, p, n_sparse, r, n_cluster, pr_z, sim_id, snr_target)
   
   
   
+  
   # err ----
   
   err = numeric()
